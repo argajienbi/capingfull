@@ -1,1 +1,158 @@
-<?php eval("?>".base64_decode("PD9waHANCiRiaXJ1PSIbWzE7MzRtIjsNCiR0dXJraXM9IhtbMTszNm0iOw0KJGlqbz0iG1s5Mm0iOw0KJHB1dGloPSIbWzE7MzdtIjsNCiRwaW5rPSIbWzE7MzVtIjsNCiRyZWQ9IhtbMTszMW0iOw0KJGt1bmluZz0iG1sxOzMzbSI7DQpmdW5jdGlvbiBsb2dpbigkY29raSkgew0KICAgICAkaGVhZGVyW109IkNvb2tpZTokY29raSI7DQogICAgICAkaGVhZGVyW109IlVzZXItQWdlbnQ6TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDcuMS4yOyBSZWRtaSAzIEJ1aWxkL05KSDQ3RDsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS81OS4wLjMwNzEuOTIgTW9iaWxlIFNhZmFyaS81MzcuMzY7Q2FwaW5nTmV3cy80LjEuNiI7DQogICAgICAkY3VybD1jdXJsX2luaXQoKTsNCiAgICAgIGN1cmxfc2V0b3B0X2FycmF5KCRjdXJsLGFycmF5KENVUkxPUFRfUkVUVVJOVFJBTlNGRVI9PnRydWUsQ1VSTE9QVF9VUkw9PiJodHRwczovL2FpLmNhcGluZy5jby5pZC92Mi91c2VyL2Njc3AvZGV0YWlsIixDVVJMT1BUX1RJTUVPVVQ9PjMwLENVUkxPUFRfSFRUUEhFQURFUj0+JGhlYWRlcixDVVJMT1BUX1NTTF9WRVJJRllQRUVSPT4wLCkpOw0KICAgICAgJHJlc3VsdD1jdXJsX2V4ZWMoJGN1cmwpOw0KICAgICAgY3VybF9jbG9zZSgkY3VybCk7DQogICAgICByZXR1cm4kcmVzdWx0Ow0KfQ0KZnVuY3Rpb24gYWJzZW4oJGNva2kpIHsNCiAgICAgJGhlYWRlcltdPSJDb29raWU6JGNva2kiOw0KICAgICAgJGhlYWRlcltdPSJVc2VyLUFnZW50Ok1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA3LjEuMjsgUmVkbWkgMyBCdWlsZC9OSkg0N0Q7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNTkuMC4zMDcxLjkyIE1vYmlsZSBTYWZhcmkvNTM3LjM2O0NhcGluZ05ld3MvNC4xLjYiOw0KICAgICAgJGN1cmw9Y3VybF9pbml0KCk7DQogICAgICBjdXJsX3NldG9wdF9hcnJheSgkY3VybCxhcnJheShDVVJMT1BUX1JFVFVSTlRSQU5TRkVSPT50cnVlLENVUkxPUFRfVVJMPT4iaHR0cHM6Ly9haS5jYXBpbmcuY28uaWQvdjIvZXZlbnQvc2lnbmluIixDVVJMT1BUX1RJTUVPVVQ9PjMwLENVUkxPUFRfSFRUUEhFQURFUj0+JGhlYWRlcixDVVJMT1BUX1NTTF9WRVJJRllQRUVSPT4wLCkpOw0KICAgICAgJHJlc3VsdD1jdXJsX2V4ZWMoJGN1cmwpOw0KICAgICAgY3VybF9jbG9zZSgkY3VybCk7DQogICAgICByZXR1cm4kcmVzdWx0Ow0KfQ0KZnVuY3Rpb24gZGlhbW9uKCRjb2tpKSB7DQogICAgICRoZWFkZXJbXT0iQ29va2llOiRjb2tpIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHBzOi8vYWkuY2FwaW5nLmNvLmlkL3YyL2V2ZW50L3NpZ25pbiIsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIHB1c2goJGNva2kpIHsNCiAgICAgJGhlYWRlcltdPSJDb29raWU6JGNva2kiOw0KICAgICAgJGhlYWRlcltdPSJVc2VyLUFnZW50Ok1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA3LjEuMjsgUmVkbWkgMyBCdWlsZC9OSkg0N0Q7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNTkuMC4zMDcxLjkyIE1vYmlsZSBTYWZhcmkvNTM3LjM2O0NhcGluZ05ld3MvNC4xLjYiOw0KICAgICAgJGN1cmw9Y3VybF9pbml0KCk7DQogICAgICBjdXJsX3NldG9wdF9hcnJheSgkY3VybCxhcnJheShDVVJMT1BUX1JFVFVSTlRSQU5TRkVSPT50cnVlLENVUkxPUFRfVVJMPT4iaHR0cHM6Ly9haS5jYXBpbmcuY28uaWQvdjIvZXZlbnQvc2hhcmUvY2xpY2svcHVzaCIsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIHZpZGVvKCRjb2tpLCRyYW5kKSB7DQogICAgICRoZWFkZXJbXT0iQ29va2llOiRjb2tpIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHBzOi8vYWkuY2FwaW5nLmNvLmlkL3YyL2V2ZW50L3ZpZGVvL3ZpZXcvJHJhbmQiLENVUkxPUFRfVElNRU9VVD0+MzAsQ1VSTE9QVF9IVFRQSEVBREVSPT4kaGVhZGVyLENVUkxPUFRfU1NMX1ZFUklGWVBFRVI9PjAsKSk7DQogICAgICAkcmVzdWx0PWN1cmxfZXhlYygkY3VybCk7DQogICAgICBjdXJsX2Nsb3NlKCRjdXJsKTsNCiAgICAgIHJldHVybiRyZXN1bHQ7DQp9DQpmdW5jdGlvbiBuZXdzKCRjb2tpLCRyYW5kKSB7DQogICAgICRoZWFkZXJbXT0iQ29va2llOiRjb2tpIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHBzOi8vYWkuY2FwaW5nLmNvLmlkL3YyL2V2ZW50L25ld3Mvdmlldy8kcmFuZCIsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIHNoYXJlKCRjb2tpLCRyYW5kKSB7DQogICAgICRoZWFkZXJbXT0iQ29va2llOiRjb2tpIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHBzOi8vYWkuY2FwaW5nLmNvLmlkL3YyL2V2ZW50L3NoYXJlL25ld3MvJHJhbmQiLENVUkxPUFRfVElNRU9VVD0+MzAsQ1VSTE9QVF9IVFRQSEVBREVSPT4kaGVhZGVyLENVUkxPUFRfU1NMX1ZFUklGWVBFRVI9PjAsKSk7DQogICAgICAkcmVzdWx0PWN1cmxfZXhlYygkY3VybCk7DQogICAgICBjdXJsX2Nsb3NlKCRjdXJsKTsNCiAgICAgIHJldHVybiRyZXN1bHQ7DQp9DQpmdW5jdGlvbiBpbnZpdGUoJGNva2kpIHsNCiAgICAgJGhlYWRlcltdPSJDb29raWU6JGNva2kiOw0KICAgICAgJGhlYWRlcltdPSJVc2VyLUFnZW50Ok1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA3LjEuMjsgUmVkbWkgMyBCdWlsZC9OSkg0N0Q7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNTkuMC4zMDcxLjkyIE1vYmlsZSBTYWZhcmkvNTM3LjM2O0NhcGluZ05ld3MvNC4xLjYiOw0KICAgICAgJGN1cmw9Y3VybF9pbml0KCk7DQogICAgICBjdXJsX3NldG9wdF9hcnJheSgkY3VybCxhcnJheShDVVJMT1BUX1JFVFVSTlRSQU5TRkVSPT50cnVlLENVUkxPUFRfVVJMPT4iaHR0cHM6Ly9haS5jYXBpbmcuY28uaWQvdjIvZXZlbnQvaW52aXRlL3ZlcmlmeS92bmZrcDUiLENVUkxPUFRfVElNRU9VVD0+MzAsQ1VSTE9QVF9IVFRQSEVBREVSPT4kaGVhZGVyLENVUkxPUFRfU1NMX1ZFUklGWVBFRVI9PjAsKSk7DQogICAgICAkcmVzdWx0PWN1cmxfZXhlYygkY3VybCk7DQogICAgICBjdXJsX2Nsb3NlKCRjdXJsKTsNCiAgICAgIHJldHVybiRyZXN1bHQ7DQp9DQpmdW5jdGlvbiB0b3AoJG5vLCRpam8sJHJlZCwkdWlkLCRjb2tpLCRpZCkgew0KICAgICAkZGF0YT1hcnJheSgibW9iaWxlIj0+JG5vLCJwcm9kdWN0SWQiPT4kaWQsInVpZCI9PiR1aWQpOw0KICAgICAgJGRhdGEyPWpzb25fZW5jb2RlKCRkYXRhKTsNCiAgICAgICRsZWc9c3RybGVuKCRkYXRhMik7DQogICAgICAkY2g9Y3VybF9pbml0KCJodHRwczovL2FpLmNhcGluZy5jby5pZC92Mi9wcm9kdWN0L29yZGVyL2NyZWF0ZSIpOw0KICAgICAgY3VybF9zZXRvcHQoJGNoLENVUkxPUFRfQ1VTVE9NUkVRVUVTVCwiUE9TVCIpOw0KICAgICAgY3VybF9zZXRvcHQoJGNoLENVUkxPUFRfVVNFUkFHRU5ULCJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42Iik7DQogICAgICBjdXJsX3NldG9wdCgkY2gsQ1VSTE9QVF9QT1NURklFTERTLCRkYXRhMik7DQogICAgICBjdXJsX3NldG9wdCgkY2gsQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUix0cnVlKTsNCiAgICAgIGN1cmxfc2V0b3B0KCRjaCxDVVJMT1BUX0hUVFBIRUFERVIsYXJyYXkoIkNvb2tpZTokY29raSIsIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIiwiQ29udGVudC1MZW5ndGg6Ii4kbGVnLCJORVRXT1JLU1RBVEU6d2lmaSIsIlVzZXItQWdlbnQ6TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDcuMS4yOyBSZWRtaSAzIEJ1aWxkL05KSDQ3RDsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS81OS4wLjMwNzEuOTIgTW9iaWxlIFNhZmFyaS81MzcuMzY7Q2FwaW5nTmV3cy80LjEuNiIpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjaCk7DQogICAgICBjdXJsX2Nsb3NlKCRjaCk7DQogICAgICAkanM9anNvbl9kZWNvZGUoJHJlc3VsdCx0cnVlKTsNCiAgICAgICRjb2RlPSRqc1siY29kZSJdOw0KICAgICAgJG1zZz0kanNbIm1lc3NhZ2UiXTsNCiAgICAgIGlmKCRjb2RlIT0iMzEwIikgew0KICAgICAgICAgIGVjaG8kaWpvLiJbLS1dICIuJG1zZy4iDQoiOw0KICAgICAgICAgICBleGl0Ow0KICAgICAgfWVsc2Ugew0KICAgICAgICAgIGVjaG8kcmVkLiJbLS1dICIuJG1zZy4iDQoiOw0KICAgICAgfQ0KfQ0KZnVuY3Rpb24gcHJvZHVrKCRjb2tpKSB7DQogICAgICRoZWFkZXJbXT0iQ29va2llOiRjb2tpIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHBzOi8vYWkuY2FwaW5nLmNvLmlkL3YyL3Byb2R1Y3QvbmV3L2xpc3Q/b2Zmc2V0PTAmbGltaXQ9MjE0NzQ4MzY0NyIsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIGxvYWRpbmcoJGxvYWQpIHsNCiAgICAgJHg9MDsNCiAgICAgIHdoaWxlKCR4PCRsb2FkKSB7DQogICAgICAgICAgJHgrKzsNCiAgICAgICAgICAgZWNobyLigKIiOw0KICAgICAgICAgICBzbGVlcCgxKTsNCiAgICAgIH0NCn0NCmZ1bmN0aW9uIG9wZW4oJGNva2ksJGQsJGx2KSB7DQogICAgICRoZWFkZXJbXT0iUmVmZXJlcjpodHRwOi8vY2FtcGFpZ24uY2FwaW5nLmNvLmlkL2NocmlzdG1hczIwMTgvP3U9Ii5zdWJzdHIoJGNva2ksMiw4KS4iJmM9Ii5zdWJzdHIoJGNva2ksMTIpLiImZD0iLiRkLiImdHlwZT0xIjsNCiAgICAgICRoZWFkZXJbXT0iVXNlci1BZ2VudDpNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNy4xLjI7IFJlZG1pIDMgQnVpbGQvTkpINDdEOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS45MiBNb2JpbGUgU2FmYXJpLzUzNy4zNjtDYXBpbmdOZXdzLzQuMS42IjsNCiAgICAgICRjdXJsPWN1cmxfaW5pdCgpOw0KICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsYXJyYXkoQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUj0+dHJ1ZSxDVVJMT1BUX1VSTD0+Imh0dHA6Ly9haS5jYXBpbmcuY28uaWQvZGljZS9wYWNrYWdlL29wZW4/dWlkPSIuc3Vic3RyKCRjb2tpLDIsOCkuIiZsZXZlbD0iLiRsdixDVVJMT1BUX1RJTUVPVVQ9PjMwLENVUkxPUFRfSFRUUEhFQURFUj0+JGhlYWRlcixDVVJMT1BUX1NTTF9WRVJJRllQRUVSPT4wLCkpOw0KICAgICAgJHJlc3VsdD1jdXJsX2V4ZWMoJGN1cmwpOw0KICAgICAgY3VybF9jbG9zZSgkY3VybCk7DQogICAgICByZXR1cm4kcmVzdWx0Ow0KfQ0KZnVuY3Rpb24gYnV5KCRjb2tpLCRkLCRsdikgew0KICAgICAkaGVhZGVyW109IlJlZmVyZXI6aHR0cDovL2NhbXBhaWduLmNhcGluZy5jby5pZC9jaHJpc3RtYXMyMDE4Lz91PSIuc3Vic3RyKCRjb2tpLDIsOCkuIiZjPSIuc3Vic3RyKCRjb2tpLDEzKS4iJmQ9Ii4kZC4iJnR5cGU9MSI7DQogICAgICAkaGVhZGVyW109IlVzZXItQWdlbnQ6TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDcuMS4yOyBSZWRtaSAzIEJ1aWxkL05KSDQ3RDsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS81OS4wLjMwNzEuOTIgTW9iaWxlIFNhZmFyaS81MzcuMzY7Q2FwaW5nTmV3cy80LjEuNiI7DQogICAgICAkY3VybD1jdXJsX2luaXQoKTsNCiAgICAgIGN1cmxfc2V0b3B0X2FycmF5KCRjdXJsLGFycmF5KENVUkxPUFRfUkVUVVJOVFJBTlNGRVI9PnRydWUsQ1VSTE9QVF9VUkw9PiJodHRwOi8vYWkuY2FwaW5nLmNvLmlkL2RpY2UvYnV5L3BhY2thZ2UvY2hhbmNlP3VpZD0iLnN1YnN0cigkY29raSwyLDgpLiImbGV2ZWw9Ii4kbHYsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIGhpc3RvcnkoJGNva2kpIHsNCiAgICAgJGhlYWRlcltdPSJDb29raWU6JGNva2kiOw0KICAgICAgJGhlYWRlcltdPSJVc2VyLUFnZW50Ok1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA3LjEuMjsgUmVkbWkgMyBCdWlsZC9OSkg0N0Q7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNTkuMC4zMDcxLjkyIE1vYmlsZSBTYWZhcmkvNTM3LjM2O0NhcGluZ05ld3MvNC4xLjYiOw0KICAgICAgJGN1cmw9Y3VybF9pbml0KCk7DQogICAgICBjdXJsX3NldG9wdF9hcnJheSgkY3VybCxhcnJheShDVVJMT1BUX1JFVFVSTlRSQU5TRkVSPT50cnVlLENVUkxPUFRfVVJMPT4iaHR0cHM6Ly9haS5jYXBpbmcuY28uaWQvdjIvdXNlci9jY3NwL2hpc3RvcnkvY29pbj9saW1pdD0yMCZvZmZzZXQ9MCIsQ1VSTE9QVF9USU1FT1VUPT4zMCxDVVJMT1BUX0hUVFBIRUFERVI9PiRoZWFkZXIsQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUj0+MCwpKTsNCiAgICAgICRyZXN1bHQ9Y3VybF9leGVjKCRjdXJsKTsNCiAgICAgIGN1cmxfY2xvc2UoJGN1cmwpOw0KICAgICAgcmV0dXJuJHJlc3VsdDsNCn0NCmZ1bmN0aW9uIHZpc2l0b3IoJGNva2kpIHsNCiAgICAgJGhlYWRlcltdPSJDb29raWU6JGNva2kiOw0KICAgICAgJGhlYWRlcltdPSJVc2VyLUFnZW50Ok1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA3LjEuMjsgUmVkbWkgMyBCdWlsZC9OSkg0N0Q7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNTkuMC4zMDcxLjkyIE1vYmlsZSBTYWZhcmkvNTM3LjM2O0NhcGluZ05ld3MvNC4xLjYiOw0KICAgICAgJGN1cmw9Y3VybF9pbml0KCk7DQogICAgICBjdXJsX3NldG9wdF9hcnJheSgkY3VybCxhcnJheShDVVJMT1BUX1JFVFVSTlRSQU5TRkVSPT50cnVlLENVUkxPUFRfVVJMPT4iaHR0cHM6Ly9haS5jYXBpbmcuY28uaWQvdjIvdXNlci9sb2dpbi92aXNpdG9yIixDVVJMT1BUX1RJTUVPVVQ9PjMwLENVUkxPUFRfSFRUUEhFQURFUj0+JGhlYWRlcixDVVJMT1BUX1NTTF9WRVJJRllQRUVSPT4wLCkpOw0KICAgICAgJHJlc3VsdD1jdXJsX2V4ZWMoJGN1cmwpOw0KICAgICAgY3VybF9jbG9zZSgkY3VybCk7DQogICAgICByZXR1cm4kcmVzdWx0Ow0KfQ0KPz4=")); ?>
+<?php
+$biru = "[1;34m";
+$turkis = "[1;36m";
+$ijo = "[92m";
+$putih = "[1;37m";
+$pink = "[1;35m";
+$red = "[1;31m";
+$kuning = "[1;33m";
+function login($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/user/ccsp/detail", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function absen($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/signin", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function diamon($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/signin", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function push($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/share/click/push", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function video($coki, $rand) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/video/view/$rand", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function news($coki, $rand) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/news/view/$rand", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function share($coki, $rand) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/share/news/$rand", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function invite($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/event/invite/verify/vnfkp5", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function top($no, $ijo, $red, $uid, $coki, $id) {
+     $data = array("mobile" => $no, "productId" => $id, "uid" => $uid);
+     $data2 = json_encode($data);
+     $leg = strlen($data2);
+     $ch = curl_init("https://ai.caping.co.id/v2/product/order/create");
+     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+     curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6");
+     curl_setopt($ch, CURLOPT_POSTFIELDS, $data2);
+     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+     curl_setopt($ch, CURLOPT_HTTPHEADER, array("Cookie:$coki", "Content-Type:application/json", "Content-Length:".$leg, "NETWORKSTATE:wifi", "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6"));
+     $result = curl_exec($ch);
+     curl_close($ch);
+     $js = json_decode($result, true);
+     $code = $js["code"];
+     $msg = $js["message"];
+     if ($code != "310") {
+          echo$ijo."[--] ".$msg."
+          ";
+          exit;
+     } else {
+          echo$red."[--] ".$msg."
+          ";
+     }
+}
+function produk($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/product/new/list?offset=0&limit=2147483647", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function loading($load) {
+     $x = 0;
+     while ($x < $load) {
+          $x++;
+          echo"•";
+          sleep(1);
+     }
+}
+function open($coki, $d, $lv) {
+     $header[] = "Referer:http://campaign.caping.co.id/christmas2018/?u=".substr($coki, 2, 8)."&c=".substr($coki, 12)."&d=".$d."&type=1";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "http://ai.caping.co.id/dice/package/open?uid=".substr($coki, 2, 8)."&level=".$lv, CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function buy($coki, $d, $lv) {
+     $header[] = "Referer:http://campaign.caping.co.id/christmas2018/?u=".substr($coki, 2, 8)."&c=".substr($coki, 13)."&d=".$d."&type=1";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "http://ai.caping.co.id/dice/buy/package/chance?uid=".substr($coki, 2, 8)."&level=".$lv, CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function history($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/user/ccsp/history/coin?limit=20&offset=0", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+function visitor($coki) {
+     $header[] = "Cookie:$coki";
+     $header[] = "User-Agent:Mozilla/5.0 (Linux; Android 7.1.2; Redmi 3 Build/NJH47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Mobile Safari/537.36;CapingNews/4.1.6";
+     $curl = curl_init();
+     curl_setopt_array($curl, array(CURLOPT_RETURNTRANSFER => true, CURLOPT_URL => "https://ai.caping.co.id/v2/user/login/visitor", CURLOPT_TIMEOUT => 30, CURLOPT_HTTPHEADER => $header, CURLOPT_SSL_VERIFYPEER => 0,));
+     $result = curl_exec($curl);
+     curl_close($curl);
+     return$result;
+}
+?>
